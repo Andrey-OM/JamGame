@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: 4ebe7eb1279d29b4eb296c218f63a770
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Land 5_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a15ed7f8b36a1244b7ed35f1eb7b7f5
+      internalID: -2055588995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe3b0a41272c0d4d86a43083c25ad62
+      internalID: 448532178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5203e4f2df1e554d8643ed1786e38e0
+      internalID: -983127033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2cf48dbc18bc546816f13316090e0b
+      internalID: -1848344189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954117d4e3a1682488093b1ca819f460
+      internalID: -859860095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeffe6708b5fbe942b1525e71e298e0d
+      internalID: -803305227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4c0d31419524a4cac5bc981cac6f7e
+      internalID: -182108684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512b2f2b628bb8540a7524cdc66cf92c
+      internalID: 1759218051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_45
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fd11b568d488c44abf9b432fee5e6b
+      internalID: 1654737555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 161
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09038adffcab394bb5ab9533ff76d42
+      internalID: -1294406647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 161
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f11209e440b1e46b8bf304b017c056
+      internalID: 806397028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e60c31867d2cbf4c8dfaf0012278c72
+      internalID: -1703981985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7414c1f20dd3b0b47a8900d370690384
+      internalID: -1984567473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_72
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c51dcec9c97874c89696a7ea460279
+      internalID: -329263721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1127936de7d154ba994c4e56e3d412
+      internalID: -193164038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_95
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906f6aee558c1944b9ffe493566c24d0
+      internalID: 1437861786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b73e46769349a4d8a2d087e604db53
+      internalID: -596384029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_121
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed54ae6ae4b22d54f9db8a61b6498404
+      internalID: 956562016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c34cb6c911e384586e13eb25089847
+      internalID: -1973532073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_124
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40efedb6b8f1c54ab05a2287e0a5777
+      internalID: -1125955809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be189a631c1d5704e9dbf9f4e16c331a
+      internalID: 1734259126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_140
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe6b66da5b2e3f4a8c9376f43480daf
+      internalID: -389883482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_141
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46343d52901fe1c498ba6030f7675ce8
+      internalID: -51985457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Land 5_142
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe218d16f523a844bdf481f3117cd85
+      internalID: -975695714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Land 5_0: -1307698322
+      Land 5_1: 154530221
+      Land 5_10: 1944618214
+      Land 5_100: -72187284
+      Land 5_101: 289813704
+      Land 5_102: -46909537
+      Land 5_103: 101219634
+      Land 5_104: 622261182
+      Land 5_105: -1051252144
+      Land 5_106: -176400042
+      Land 5_107: -682847935
+      Land 5_108: -894060094
+      Land 5_109: -1951340160
+      Land 5_11: -507326767
+      Land 5_110: 1053805110
+      Land 5_111: -549522002
+      Land 5_112: 1655757292
+      Land 5_113: -719838503
+      Land 5_114: -1794266575
+      Land 5_115: 971327020
+      Land 5_116: -1597855784
+      Land 5_117: -1918154878
+      Land 5_118: -1693381398
+      Land 5_119: 1581605856
+      Land 5_12: 1035891174
+      Land 5_120: -787297854
+      Land 5_121: 956562016
+      Land 5_122: -1973532073
+      Land 5_123: 1297793653
+      Land 5_124: -1125955809
+      Land 5_125: 1734259126
+      Land 5_126: -726694405
+      Land 5_127: -200276429
+      Land 5_128: 1284993687
+      Land 5_129: -2076138584
+      Land 5_13: -2002653787
+      Land 5_130: 628368508
+      Land 5_131: 436124278
+      Land 5_132: -428962324
+      Land 5_133: -404168937
+      Land 5_134: -1846628683
+      Land 5_135: 356620155
+      Land 5_136: -525089194
+      Land 5_137: 3963660
+      Land 5_138: 1014958451
+      Land 5_139: 1573122560
+      Land 5_14: -750596700
+      Land 5_140: -389883482
+      Land 5_141: -51985457
+      Land 5_142: -975695714
+      Land 5_143: 754642836
+      Land 5_144: -775291214
+      Land 5_145: -1989021475
+      Land 5_146: 500372025
+      Land 5_147: -1422026281
+      Land 5_148: 685064777
+      Land 5_149: -593625109
+      Land 5_15: -1973230138
+      Land 5_150: 1672934176
+      Land 5_151: -2119535948
+      Land 5_152: -1219482524
+      Land 5_153: 2016932936
+      Land 5_154: -1905889783
+      Land 5_155: 975727614
+      Land 5_156: -2107540906
+      Land 5_16: -2055588995
+      Land 5_17: 448532178
+      Land 5_18: -983127033
+      Land 5_19: -1848344189
+      Land 5_2: -78580088
+      Land 5_20: -859860095
+      Land 5_21: -803305227
+      Land 5_22: -182108684
+      Land 5_23: 1759218051
+      Land 5_24: -1505080702
+      Land 5_25: -1716454284
+      Land 5_26: -1635449971
+      Land 5_27: -1187010397
+      Land 5_28: -665276371
+      Land 5_29: -1504980894
+      Land 5_3: 1897889141
+      Land 5_30: -352243833
+      Land 5_31: -1608403146
+      Land 5_32: -886907801
+      Land 5_33: 1274252131
+      Land 5_34: 1854955025
+      Land 5_35: 1067907068
+      Land 5_36: -830623445
+      Land 5_37: 1407906179
+      Land 5_38: 2107695580
+      Land 5_39: -63910388
+      Land 5_4: 497484729
+      Land 5_40: 274572026
+      Land 5_41: 1600878743
+      Land 5_42: -144915643
+      Land 5_43: 577414651
+      Land 5_44: -380997858
+      Land 5_45: 1654737555
+      Land 5_46: -1294406647
+      Land 5_47: 806397028
+      Land 5_48: -651421104
+      Land 5_49: -1474574775
+      Land 5_5: -95211378
+      Land 5_50: -232359486
+      Land 5_51: -1590570423
+      Land 5_52: 889823975
+      Land 5_53: -1952227653
+      Land 5_54: -334180395
+      Land 5_55: 359918197
+      Land 5_56: -2080154183
+      Land 5_57: -930649776
+      Land 5_58: -1169733692
+      Land 5_59: -78884728
+      Land 5_6: -240387232
+      Land 5_60: 67168327
+      Land 5_61: -266672648
+      Land 5_62: -817934653
+      Land 5_63: -1310482619
+      Land 5_64: -1343797530
+      Land 5_65: -1245628651
+      Land 5_66: 1013335701
+      Land 5_67: -453061355
+      Land 5_68: -596788290
+      Land 5_69: -1703981985
+      Land 5_7: -2079109244
+      Land 5_70: -1984567473
+      Land 5_71: -294024533
+      Land 5_72: -329263721
+      Land 5_73: -193164038
+      Land 5_74: -474027779
+      Land 5_75: -1056222716
+      Land 5_76: -1504984903
+      Land 5_77: 2130415793
+      Land 5_78: 2075551283
+      Land 5_79: 1190005811
+      Land 5_8: 2030966591
+      Land 5_80: 402300531
+      Land 5_81: 1055850631
+      Land 5_82: -1125961850
+      Land 5_83: -420452136
+      Land 5_84: -1291524680
+      Land 5_85: -183475618
+      Land 5_86: -1113763356
+      Land 5_87: -1733733797
+      Land 5_88: -1582466859
+      Land 5_89: -879242108
+      Land 5_9: 1480453851
+      Land 5_90: 1903784867
+      Land 5_91: 900074272
+      Land 5_92: 453128140
+      Land 5_93: 779298751
+      Land 5_94: 1879764363
+      Land 5_95: 1437861786
+      Land 5_96: -38125318
+      Land 5_97: 95001448
+      Land 5_98: -298073027
+      Land 5_99: -596384029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

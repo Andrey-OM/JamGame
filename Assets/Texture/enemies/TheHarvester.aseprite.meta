@@ -1,0 +1,2152 @@
+fileFormatVersion: 2
+guid: f5ae7e2de0aa1a54e83f800bfae7f8cd
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: TheHarvester_Frame_0
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 451
+      width: 27
+      height: 20
+    spriteID: 473ab337cd239524b9d908b6eb180eb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 451}
+  - name: TheHarvester_Frame_1
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 479
+      width: 27
+      height: 20
+    spriteID: bf5d1a12752f4c14c90ea7eecc1c5763
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 479}
+  - name: TheHarvester_Frame_2
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 4
+      width: 27
+      height: 20
+    spriteID: e3919ebe3169f9347b79f2779ed00747
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 4}
+  - name: TheHarvester_Frame_3
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 32
+      width: 27
+      height: 20
+    spriteID: a6c3e0235c892894dad7514aa2d5c530
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 32}
+  - name: TheHarvester_Frame_4
+    originalName: 
+    pivot: {x: 0.7592592, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 277
+      width: 27
+      height: 21
+    spriteID: c97a6f8a38bb3b649adf58dec9fdc6ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 277}
+  - name: TheHarvester_Frame_5
+    originalName: 
+    pivot: {x: 0.7592592, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 306
+      width: 27
+      height: 21
+    spriteID: bb8abd43ac075d2449dd40a8b47d4e74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 306}
+  - name: TheHarvester_Frame_6
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 60
+      width: 27
+      height: 20
+    spriteID: 1fa0db297cccd0942b3d8a48f40eb400
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 60}
+  - name: TheHarvester_Frame_7
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 88
+      width: 27
+      height: 20
+    spriteID: da1bb7b6dab48384ab98a2b69e01f262
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 88}
+  - name: TheHarvester_Frame_8
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 116
+      width: 27
+      height: 20
+    spriteID: 7ed449e988abbfd498a0853995cdf4db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 116}
+  - name: TheHarvester_Frame_9
+    originalName: 
+    pivot: {x: 0.7592592, y: -0.95454544}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 437
+      width: 27
+      height: 22
+    spriteID: b2b2443a9d0c2bb40b37269b259a81f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 437}
+  - name: TheHarvester_Frame_10
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 144
+      width: 27
+      height: 20
+    spriteID: 50e7503cba2d20a48af468e845abf40d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 144}
+  - name: TheHarvester_Frame_11
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 172
+      width: 27
+      height: 20
+    spriteID: 2c7d216724a50c346bf3f3fae1414422
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 172}
+  - name: TheHarvester_Frame_12
+    originalName: 
+    pivot: {x: 0.7592592, y: -0.9130435}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 313
+      width: 27
+      height: 23
+    spriteID: 4df3d491bcbe11240b1d428846507cc2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 313}
+  - name: TheHarvester_Frame_13
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 200
+      width: 27
+      height: 20
+    spriteID: f8239d8266b22bc4d984f7080fddaddf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 200}
+  - name: TheHarvester_Frame_14
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 228
+      width: 27
+      height: 20
+    spriteID: d4e949dc6c5fef74fbd22492eea06022
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 228}
+  - name: TheHarvester_Frame_15
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 256
+      width: 27
+      height: 20
+    spriteID: 4dee806d96a2c6541a62b9d5c519cb42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 256}
+  - name: TheHarvester_Frame_16
+    originalName: 
+    pivot: {x: 0.7592592, y: -0.9130435}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 344
+      width: 27
+      height: 23
+    spriteID: a11f00730b3f5b641993a2481393626b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 344}
+  - name: TheHarvester_Frame_17
+    originalName: 
+    pivot: {x: 0.7592592, y: -0.9130435}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 375
+      width: 27
+      height: 23
+    spriteID: a8f3e220d8cd1a54cbecda8e444878cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 375}
+  - name: TheHarvester_Frame_18
+    originalName: 
+    pivot: {x: 0.7592592, y: -0.9130435}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 406
+      width: 27
+      height: 23
+    spriteID: ceb2235472bdaee4da24bacc3b9da28e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 406}
+  - name: TheHarvester_Frame_19
+    originalName: 
+    pivot: {x: 0.7678571, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 467
+      width: 28
+      height: 21
+    spriteID: db0eabc3325c5b342bf42fa889a958cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 467}
+  - name: TheHarvester_Frame_20
+    originalName: 
+    pivot: {x: 0.79032254, y: -0.9130435}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 282
+      width: 31
+      height: 23
+    spriteID: 77b5cdc3a3b3ccb4598a2afe3fedba34
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 282}
+  - name: TheHarvester_Frame_21
+    originalName: 
+    pivot: {x: 0.75, y: -0.8076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 248
+      width: 34
+      height: 26
+    spriteID: a0b87d34ec9da58409340e9cbdb08bfc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 248}
+  - name: TheHarvester_Frame_22
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 284
+      width: 27
+      height: 20
+    spriteID: 065b050b1cb539d47bcfc0bdc1993f78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 284}
+  - name: TheHarvester_Frame_23
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.1052631}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 64
+      width: 27
+      height: 19
+    spriteID: 001f2ef4a814c70469f7a39d60819ff4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 64}
+  - name: TheHarvester_Frame_24
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.1052631}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 91
+      width: 27
+      height: 19
+    spriteID: d4a9b3f349b624143b1709158c5fcdc1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 91}
+  - name: TheHarvester_Frame_25
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 312
+      width: 27
+      height: 20
+    spriteID: 65e3433b68836e04eb3862d6bb5d99fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 312}
+  - name: TheHarvester_Frame_26
+    originalName: 
+    pivot: {x: 0.7592592, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 335
+      width: 27
+      height: 21
+    spriteID: 14561e9ea0015d7419fdf84c7d71d64a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 335}
+  - name: TheHarvester_Frame_27
+    originalName: 
+    pivot: {x: 0.7592592, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 364
+      width: 27
+      height: 21
+    spriteID: 40af9abbca66fc94d8d8c831ddda7398
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 364}
+  - name: TheHarvester_Frame_28
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 340
+      width: 27
+      height: 20
+    spriteID: 386881b7ef0b4a14ab2f88c4d96ef49c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 340}
+  - name: TheHarvester_Frame_29
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.1052631}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 118
+      width: 27
+      height: 19
+    spriteID: 81172bbdbf552e64bab08e384c096e15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 118}
+  - name: TheHarvester_Frame_30
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.1052631}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 145
+      width: 27
+      height: 19
+    spriteID: da5f39b5724ea8d488c3a45a50f6d7da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 145}
+  - name: TheHarvester_Frame_31
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 368
+      width: 27
+      height: 20
+    spriteID: c98b7242562ae09459633c3797061491
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 368}
+  - name: TheHarvester_Frame_32
+    originalName: 
+    pivot: {x: 0.7592592, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 393
+      width: 27
+      height: 21
+    spriteID: 11eea1e2861a9064c8d7bc3b754ac3b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 393}
+  - name: TheHarvester_Frame_33
+    originalName: 
+    pivot: {x: 0.7592592, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 422
+      width: 27
+      height: 21
+    spriteID: d0bf8566e5ff6684799f12c48e5f5cdc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 422}
+  - name: TheHarvester_Frame_34
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 396
+      width: 27
+      height: 20
+    spriteID: d8bde9ef3a75a1d4b9731dd71ce026c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 396}
+  - name: TheHarvester_Frame_35
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 424
+      width: 27
+      height: 20
+    spriteID: 2ef735c86de02dd49a554ce398888e86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 424}
+  - name: TheHarvester_Frame_36
+    originalName: 
+    pivot: {x: 0.83333325, y: -1.1052631}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 172
+      width: 27
+      height: 19
+    spriteID: 16470dfd942f84f4d85c1c31d0bc7937
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 172}
+  - name: TheHarvester_Frame_37
+    originalName: 
+    pivot: {x: 0.87499994, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 248
+      width: 28
+      height: 21
+    spriteID: 0c9a44935af497e409a3d2e3f199aabc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 248}
+  - name: TheHarvester_Frame_38
+    originalName: 
+    pivot: {x: 0.8793103, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 218
+      width: 29
+      height: 21
+    spriteID: 6336f881962f17e4a9928158847d2f58
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 218}
+  - name: TheHarvester_Frame_43
+    originalName: 
+    pivot: {x: 0.39473683, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 190
+      width: 57
+      height: 20
+    spriteID: ffa3e9f8ccb16294dac88a9cf910cb58
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 190}
+  - name: TheHarvester_Frame_44
+    originalName: 
+    pivot: {x: 0.4083333, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 162
+      width: 60
+      height: 20
+    spriteID: 9962001b3c4927d48a2b472517d1e3bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 162}
+  - name: TheHarvester_Frame_45
+    originalName: 
+    pivot: {x: 0.41803277, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 134
+      width: 61
+      height: 20
+    spriteID: e01d8e9499a293844b6d1222f49b7be8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 134}
+  - name: TheHarvester_Frame_46
+    originalName: 
+    pivot: {x: 0.72222215, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 452
+      width: 27
+      height: 20
+    spriteID: b9eaba59550502947a54a87c0803c068
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 452}
+  - name: TheHarvester_Frame_47
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 480
+      width: 27
+      height: 20
+    spriteID: 6743d560cea20c94eb09d99b6a23be8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 480}
+  - name: TheHarvester_Frame_48
+    originalName: 
+    pivot: {x: 0.7592592, y: -1.0500001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 4
+      width: 27
+      height: 20
+    spriteID: c82f0fd504d0ca54381a9516798eef30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 4}
+  - name: TheHarvester_Frame_49
+    originalName: 
+    pivot: {x: 0.83333325, y: -1.1052631}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 199
+      width: 27
+      height: 19
+    spriteID: bc1feeba58e5ffe45b039e7d3f987308
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 199}
+  - name: TheHarvester_Frame_50
+    originalName: 
+    pivot: {x: 0.7941176, y: -0.875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 226
+      width: 17
+      height: 24
+    spriteID: e49b20da0087357498ba36097cb42010
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 226}
+  - name: TheHarvester_Frame_51
+    originalName: 
+    pivot: {x: 0.7941176, y: -0.875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 258
+      width: 17
+      height: 24
+    spriteID: 03a1c5f8fbda6a64b8df87882b2561d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 258}
+  - name: TheHarvester_Frame_52
+    originalName: 
+    pivot: {x: 0.7941176, y: -0.875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 290
+      width: 17
+      height: 24
+    spriteID: 5ee8cae46bacfa042a6902101df92aed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 290}
+  - name: TheHarvester_Frame_53
+    originalName: 
+    pivot: {x: 0.7941176, y: -0.875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 322
+      width: 17
+      height: 24
+    spriteID: c3b95e45202a5b341a8448e249588e0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 322}
+  - name: TheHarvester_Frame_54
+    originalName: 
+    pivot: {x: 0.7941176, y: -0.875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 354
+      width: 17
+      height: 24
+    spriteID: ff7a8271793038b49b6f85865e3f01b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 354}
+  - name: TheHarvester_Frame_55
+    originalName: 
+    pivot: {x: 0.7941176, y: -0.875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 386
+      width: 17
+      height: 24
+    spriteID: 549270e23e9102644ad39f4ede997013
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 386}
+  - name: TheHarvester_Frame_56
+    originalName: 
+    pivot: {x: 0.7941176, y: -0.875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 418
+      width: 17
+      height: 24
+    spriteID: 6cc59c471f639e1489a70746831e78cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 418}
+  - name: TheHarvester_Frame_57
+    originalName: 
+    pivot: {x: 0.7941176, y: -0.875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 450
+      width: 17
+      height: 24
+    spriteID: aa7e9d0f899cc49449c144a59fcffdb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 450}
+  - name: TheHarvester_Frame_58
+    originalName: 
+    pivot: {x: 0.7941176, y: -0.875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 482
+      width: 17
+      height: 24
+    spriteID: 6105d36545b6f7c44bb4ff29828f071e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 482}
+  - name: TheHarvester_Frame_59
+    originalName: 
+    pivot: {x: 0.6136364, y: -0.875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 32
+      width: 22
+      height: 24
+    spriteID: c69e51f6fd8740443ba145c2066cd132
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 32}
+  - name: TheHarvester_Frame_60
+    originalName: 
+    pivot: {x: 0.5340909, y: -0.95454544}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 218
+      width: 44
+      height: 22
+    spriteID: dcd62b216e7bf2243be3b094d21805ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 218}
+  - name: TheHarvester_Frame_61
+    originalName: 
+    pivot: {x: 0.53389835, y: -0.95454544}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 104
+      width: 59
+      height: 22
+    spriteID: 23297b53ff4ef5f40800183b641b8ea7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 104}
+  - name: TheHarvester_Frame_62
+    originalName: 
+    pivot: {x: 0.5410959, y: -0.875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 72
+      width: 73
+      height: 24
+    spriteID: eb22e8cf93199ed4581e044477fe3869
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 72}
+  - name: TheHarvester_Frame_63
+    originalName: 
+    pivot: {x: 0.56329113, y: -0.84000003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 39
+      width: 79
+      height: 25
+    spriteID: 65bd4373a23bb8240888a313bb159037
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 39}
+  - name: TheHarvester_Frame_64
+    originalName: 
+    pivot: {x: 0.5588235, y: -0.7777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 85
+      height: 27
+    spriteID: 74dbe332f65c12746aeaf0c99fa88af3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: TheHarvester_Frame_65
+    originalName: 
+    pivot: {x: 1.2499999, y: -4.1666665}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 81
+      y: 451
+      width: 6
+      height: 6
+    spriteID: 75fac4d4306b0444eaa4ac2f76fb24bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 451}
+  - name: TheHarvester_Frame_66
+    originalName: 
+    pivot: {x: 1.0624999, y: -4.2000003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 146
+      width: 8
+      height: 5
+    spriteID: 50a7a6494e793a444885c6482d2a49da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 146}
+  - name: TheHarvester_Frame_67
+    originalName: 
+    pivot: {x: 0.8076923, y: -5.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 134
+      width: 13
+      height: 4
+    spriteID: 617af277c10ffc2449ca65885251eee8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 134}
+  - name: TheHarvester_Frame_68
+    originalName: 
+    pivot: {x: 0.6428571, y: -10.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 167
+      y: 61
+      width: 21
+      height: 2
+    spriteID: bc278b11ee9d97143881f7d9927265f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 61}
+  - name: TheHarvester_Frame_69
+    originalName: 
+    pivot: {x: 0.63043475, y: -21}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 507
+      width: 23
+      height: 1
+    spriteID: 7f3c5556dc68fce429af60c34decb2c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 507}
+  - name: TheHarvester_Frame_70
+    originalName: 
+    pivot: {x: 0.6764706, y: -21}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 162
+      width: 17
+      height: 1
+    spriteID: e0b852cca23e905468fee1479b039813
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 72, y: 162}
+  - name: TheHarvester_Frame_71
+    originalName: 
+    pivot: {x: -3.5000029, y: -21}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 81
+      y: 465
+      width: 1
+      height: 1
+    spriteID: c4c0ae721f4fa414aafcf42f967fb99e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 465}
+  - name: TheHarvester_Frame_39
+    originalName: 
+    pivot: {x: 0.8703703, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 496
+      width: 27
+      height: 11
+    spriteID: f003a23029235b047b24e63b2717de20
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 496}
+  - name: TheHarvester_Frame_40
+    originalName: 
+    pivot: {x: 0.8703703, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 167
+      y: 4
+      width: 27
+      height: 11
+    spriteID: 23eb0f723e22a10499ef1a611f73ff37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 4}
+  - name: TheHarvester_Frame_41
+    originalName: 
+    pivot: {x: 0.79629624, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 167
+      y: 23
+      width: 27
+      height: 11
+    spriteID: 385343ef262465749a4c341057e3fdf1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 23}
+  - name: TheHarvester_Frame_42
+    originalName: 
+    pivot: {x: 0.7592592, y: -2.0909092}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 167
+      y: 42
+      width: 27
+      height: 11
+    spriteID: cf0dad59a5731f844970829921ee0e1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 42}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 2143566501
+    name: TheHarvester
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: TheHarvester_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: 473ab337cd239524b9d908b6eb180eb8
+    - name: TheHarvester_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: bf5d1a12752f4c14c90ea7eecc1c5763
+    - name: TheHarvester_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: e3919ebe3169f9347b79f2779ed00747
+    - name: TheHarvester_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: a6c3e0235c892894dad7514aa2d5c530
+    - name: TheHarvester_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 21
+      spriteId: c97a6f8a38bb3b649adf58dec9fdc6ad
+    - name: TheHarvester_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 21
+      spriteId: bb8abd43ac075d2449dd40a8b47d4e74
+    - name: TheHarvester_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: 1fa0db297cccd0942b3d8a48f40eb400
+    - name: TheHarvester_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: da1bb7b6dab48384ab98a2b69e01f262
+    - name: TheHarvester_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: 7ed449e988abbfd498a0853995cdf4db
+    - name: TheHarvester_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 22
+      spriteId: b2b2443a9d0c2bb40b37269b259a81f4
+    - name: TheHarvester_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: 50e7503cba2d20a48af468e845abf40d
+    - name: TheHarvester_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: 2c7d216724a50c346bf3f3fae1414422
+    - name: TheHarvester_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 23
+      spriteId: 4df3d491bcbe11240b1d428846507cc2
+    - name: TheHarvester_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: f8239d8266b22bc4d984f7080fddaddf
+    - name: TheHarvester_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: d4e949dc6c5fef74fbd22492eea06022
+    - name: TheHarvester_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: 4dee806d96a2c6541a62b9d5c519cb42
+    - name: TheHarvester_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 23
+      spriteId: a11f00730b3f5b641993a2481393626b
+    - name: TheHarvester_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 23
+      spriteId: a8f3e220d8cd1a54cbecda8e444878cf
+    - name: TheHarvester_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 23
+      spriteId: ceb2235472bdaee4da24bacc3b9da28e
+    - name: TheHarvester_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 31
+        y: 21
+        width: 28
+        height: 21
+      spriteId: db0eabc3325c5b342bf42fa889a958cd
+    - name: TheHarvester_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 28
+        y: 21
+        width: 31
+        height: 23
+      spriteId: 77b5cdc3a3b3ccb4598a2afe3fedba34
+    - name: TheHarvester_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 27
+        y: 21
+        width: 34
+        height: 26
+      spriteId: a0b87d34ec9da58409340e9cbdb08bfc
+    - name: TheHarvester_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: 065b050b1cb539d47bcfc0bdc1993f78
+    - name: TheHarvester_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 19
+      spriteId: 001f2ef4a814c70469f7a39d60819ff4
+    - name: TheHarvester_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 19
+      spriteId: d4a9b3f349b624143b1709158c5fcdc1
+    - name: TheHarvester_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: 65e3433b68836e04eb3862d6bb5d99fe
+    - name: TheHarvester_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 21
+      spriteId: 14561e9ea0015d7419fdf84c7d71d64a
+    - name: TheHarvester_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 21
+      spriteId: 40af9abbca66fc94d8d8c831ddda7398
+    - name: TheHarvester_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: 386881b7ef0b4a14ab2f88c4d96ef49c
+    - name: TheHarvester_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 19
+      spriteId: 81172bbdbf552e64bab08e384c096e15
+    - name: TheHarvester_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 19
+      spriteId: da5f39b5724ea8d488c3a45a50f6d7da
+    - name: TheHarvester_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: c98b7242562ae09459633c3797061491
+    - name: TheHarvester_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 21
+      spriteId: 11eea1e2861a9064c8d7bc3b754ac3b6
+    - name: TheHarvester_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 21
+      spriteId: d0bf8566e5ff6684799f12c48e5f5cdc
+    - name: TheHarvester_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: d8bde9ef3a75a1d4b9731dd71ce026c2
+    - name: TheHarvester_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: 2ef735c86de02dd49a554ce398888e86
+    - name: TheHarvester_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 30
+        y: 21
+        width: 27
+        height: 19
+      spriteId: 16470dfd942f84f4d85c1c31d0bc7937
+    - name: TheHarvester_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 28
+        y: 21
+        width: 28
+        height: 21
+      spriteId: 0c9a44935af497e409a3d2e3f199aabc
+    - name: TheHarvester_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 27
+        y: 21
+        width: 29
+        height: 21
+      spriteId: 6336f881962f17e4a9928158847d2f58
+    - name: TheHarvester_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 30
+        y: 21
+        width: 57
+        height: 20
+      spriteId: ffa3e9f8ccb16294dac88a9cf910cb58
+    - name: TheHarvester_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 28
+        y: 21
+        width: 60
+        height: 20
+      spriteId: 9962001b3c4927d48a2b472517d1e3bb
+    - name: TheHarvester_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 27
+        y: 21
+        width: 61
+        height: 20
+      spriteId: e01d8e9499a293844b6d1222f49b7be8
+    - name: TheHarvester_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 33
+        y: 21
+        width: 27
+        height: 20
+      spriteId: b9eaba59550502947a54a87c0803c068
+    - name: TheHarvester_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: 6743d560cea20c94eb09d99b6a23be8f
+    - name: TheHarvester_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 32
+        y: 21
+        width: 27
+        height: 20
+      spriteId: c82f0fd504d0ca54381a9516798eef30
+    - name: TheHarvester_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 30
+        y: 21
+        width: 27
+        height: 19
+      spriteId: bc1feeba58e5ffe45b039e7d3f987308
+    - name: TheHarvester_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 39
+        y: 21
+        width: 17
+        height: 24
+      spriteId: e49b20da0087357498ba36097cb42010
+    - name: TheHarvester_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 39
+        y: 21
+        width: 17
+        height: 24
+      spriteId: 03a1c5f8fbda6a64b8df87882b2561d6
+    - name: TheHarvester_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 39
+        y: 21
+        width: 17
+        height: 24
+      spriteId: 5ee8cae46bacfa042a6902101df92aed
+    - name: TheHarvester_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 39
+        y: 21
+        width: 17
+        height: 24
+      spriteId: c3b95e45202a5b341a8448e249588e0d
+    - name: TheHarvester_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 39
+        y: 21
+        width: 17
+        height: 24
+      spriteId: ff7a8271793038b49b6f85865e3f01b0
+    - name: TheHarvester_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 39
+        y: 21
+        width: 17
+        height: 24
+      spriteId: 549270e23e9102644ad39f4ede997013
+    - name: TheHarvester_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 39
+        y: 21
+        width: 17
+        height: 24
+      spriteId: 6cc59c471f639e1489a70746831e78cf
+    - name: TheHarvester_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 39
+        y: 21
+        width: 17
+        height: 24
+      spriteId: aa7e9d0f899cc49449c144a59fcffdb8
+    - name: TheHarvester_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 39
+        y: 21
+        width: 17
+        height: 24
+      spriteId: 6105d36545b6f7c44bb4ff29828f071e
+    - name: TheHarvester_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 39
+        y: 21
+        width: 22
+        height: 24
+      spriteId: c69e51f6fd8740443ba145c2066cd132
+    - name: TheHarvester_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 29
+        y: 21
+        width: 44
+        height: 22
+      spriteId: dcd62b216e7bf2243be3b094d21805ec
+    - name: TheHarvester_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 21
+        y: 21
+        width: 59
+        height: 22
+      spriteId: 23297b53ff4ef5f40800183b641b8ea7
+    - name: TheHarvester_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 13
+        y: 21
+        width: 73
+        height: 24
+      spriteId: eb22e8cf93199ed4581e044477fe3869
+    - name: TheHarvester_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 8
+        y: 21
+        width: 79
+        height: 25
+      spriteId: 65bd4373a23bb8240888a313bb159037
+    - name: TheHarvester_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 5
+        y: 21
+        width: 85
+        height: 27
+      spriteId: 74dbe332f65c12746aeaf0c99fa88af3
+    - name: TheHarvester_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 45
+        y: 25
+        width: 6
+        height: 6
+      spriteId: 75fac4d4306b0444eaa4ac2f76fb24bc
+    - name: TheHarvester_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 44
+        y: 21
+        width: 8
+        height: 5
+      spriteId: 50a7a6494e793a444885c6482d2a49da
+    - name: TheHarvester_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 42
+        y: 22
+        width: 13
+        height: 4
+      spriteId: 617af277c10ffc2449ca65885251eee8
+    - name: TheHarvester_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 39
+        y: 21
+        width: 21
+        height: 2
+      spriteId: bc278b11ee9d97143881f7d9927265f0
+    - name: TheHarvester_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 38
+        y: 21
+        width: 23
+        height: 1
+      spriteId: 7f3c5556dc68fce429af60c34decb2c2
+    - name: TheHarvester_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 41
+        y: 21
+        width: 17
+        height: 1
+      spriteId: e0b852cca23e905468fee1479b039813
+    - name: TheHarvester_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 56
+        y: 21
+        width: 1
+        height: 1
+      spriteId: c4c0ae721f4fa414aafcf42f967fb99e
+    - name: TheHarvester_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 29
+        y: 22
+        width: 27
+        height: 11
+      spriteId: f003a23029235b047b24e63b2717de20
+    - name: TheHarvester_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 29
+        y: 22
+        width: 27
+        height: 11
+      spriteId: 23eb0f723e22a10499ef1a611f73ff37
+    - name: TheHarvester_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 31
+        y: 22
+        width: 27
+        height: 11
+      spriteId: 385343ef262465749a4c341057e3fdf1
+    - name: TheHarvester_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 32
+        y: 23
+        width: 27
+        height: 11
+      spriteId: cf0dad59a5731f844970829921ee0e1e
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 105, y: 86}
